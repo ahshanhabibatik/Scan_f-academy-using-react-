@@ -1,0 +1,138 @@
+[
+    {
+      "id": 1,
+      "courseTitle": "Advanced C programming",
+      "relatedInfo": "Beginner-level course | HTML, CSS, JavaScript",
+      "name": "John Doe",
+      "review": "I found this course to be an excellent starting point for web development. The instructors explain concepts clearly, and there are plenty of hands-on exercises to practice what you learn. Highly recommended for beginners.",
+      "image": "course1.jpg",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "courseTitle": "Java for beginners",
+      "relatedInfo": "Intermediate-level course | Python 3",
+      "name": "Jane Smith",
+      "review": "The Python Masterclass is incredibly comprehensive. It covers a wide range of Python topics and provides practical examples. I feel much more confident in my coding abilities after completing this course.",
+      "image": "course2.jpg",
+      "rating": 4.6
+    },
+    {
+      "id": 3,
+      "courseTitle": "Data Science with R",
+      "relatedInfo": "Intermediate-level course | R Programming, Data Analysis",
+      "name": "Alice Johnson",
+      "review": "As a data enthusiast, I found this course to be very informative. The instructors dive deep into data analysis techniques using R, and the provided datasets for projects are valuable. Great course!",
+      "image": "course3.jpg",
+      "rating": 4.9
+    },
+    {
+      "id": 4,
+      "courseTitle": "Mobile App Development with React Native",
+      "relatedInfo": "Advanced-level course | React Native, JavaScript",
+      "name": "Bob Wilson",
+      "review": "I had prior experience with React, but this course helped me transition to React Native smoothly. The projects are practical, and the instructors offer great insights into mobile app development.",
+      "image": "course4.jpg",
+      "rating": 4.7
+    },
+    {
+      "id": 5,
+      "courseTitle": "Machine Learning Specialization",
+      "relatedInfo": "Advanced-level course | Machine Learning, Python",
+      "name": "Eva Martinez",
+      "review": "This specialization is top-notch for anyone interested in machine learning. The content is challenging but rewarding. The practical projects and real-world applications make it stand out.",
+      "image": "course5.jpg",
+      "rating": 4.5
+    },
+    {
+      "id": 6,
+      "courseTitle": "Digital Marketing Strategies",
+      "relatedInfo": "Intermediate-level course | Digital Marketing, SEO, Social Media",
+      "name": "Michael Brown",
+      "review": "The digital marketing course is packed with valuable strategies and insights. It's up-to-date with the latest marketing trends, and the instructors are experienced professionals in the field.",
+      "image": "course6.jpg",
+      "rating": 4.8
+    },
+    {
+      "id": 7,
+      "courseTitle": "Cybersecurity Essentials",
+      "relatedInfo": "Intermediate-level course | Cybersecurity, Network Security",
+      "name": "Sophia Clark",
+      "review": "In today's digital world, cybersecurity is crucial. This course covers the essentials and provides practical tips to protect systems. I feel more secure online after taking this course.",
+      "image": "course7.jpg",
+      "rating": 4.9
+    },
+    {
+      "id": 8,
+      "courseTitle": "Photography Masterclass",
+      "relatedInfo": "Beginner-level course | Photography Basics, Camera Techniques",
+      "name": "David Lee",
+      "review": "I've always been interested in photography, and this masterclass exceeded my expectations. The instructors break down complex concepts into easily digestible lessons. Great for beginners!",
+      "image": "course8.jpg",
+      "rating": 4.7
+    },
+    {
+      "id": 9,
+      "courseTitle": "Artificial Intelligence & Ethics",
+      "relatedInfo": "Advanced-level course | AI, Ethics, Machine Learning",
+      "name": "Olivia Turner",
+      "review": "This course addresses the ethical considerations in AI brilliantly. It's thought-provoking and emphasizes responsible AI development. Highly recommended for AI enthusiasts.",
+      "image": "course9.jpg",
+      "rating": 4.6
+    },
+    {
+      "id": 10,
+      "courseTitle": "Financial Planning and Investment",
+      "relatedInfo": "Intermediate-level course | Finance, Investment Strategies",
+      "name": "Daniel Kim",
+      "review": "Financial literacy is essential, and this course provides valuable insights into financial planning and investment. The real-world examples make it easy to understand complex financial concepts.",
+      "image": "course10.jpg",
+      "rating": 4.8
+    },
+    {
+      "id": 11,
+      "courseTitle": "Art History: From Renaissance to Contemporary Art",
+      "relatedInfo": "Beginner-level course | Art History, Renaissance Art",
+      "name": "Sophie Adams",
+      "review": "This art history course is a visual delight! I enjoyed learning about different art movements and their significance. The course content is well-structured, and the artworks are beautiful.",
+      "image": "course11.jpg",
+      "rating": 4.7
+    },
+    {
+      "id": 12,
+      "courseTitle": "Spanish Language Mastery",
+      "relatedInfo": "Intermediate-level course | Spanish Language, Conversational Skills",
+      "name": "Carlos Rodriguez",
+      "review": "¡Este curso de español es fantástico! Aprendí mucho sobre la gramática y la conversación en español. Los instructores son excelentes, y las lecciones son efectivas para mejorar mis habilidades lingüísticas.",
+      "image": "course12.jpg",
+      "rating": 4.9
+    },
+    {
+      "id": 13,
+      "courseTitle": "Environmental Science: Sustainability and Conservation",
+      "relatedInfo": "Intermediate-level course | Environmental Science, Conservation",
+      "name": "Emily Watson",
+      "review": "Environmental science is a critical subject, and this course delves into sustainability and conservation. It's an eye-opener and motivates individuals to take action for a greener planet.",
+      "image": "course13.jpg",
+      "rating": 4.8
+    },
+    {
+      "id": 14,
+      "courseTitle": "Blockchain and Cryptocurrency Essentials",
+      "relatedInfo": "Intermediate-level course | Blockchain, Cryptocurrency",
+      "name": "Alex Turner",
+      "review": "Blockchain and cryptocurrency are the future, and this course provides a solid foundation. The instructors explain complex concepts clearly, and I'm excited about the possibilities of blockchain technology.",
+      "image": "course14.jpg",
+      "rating": 4.7
+    },
+    {
+      "id": 15,
+      "courseTitle": "Cooking Masterclass: International Cuisine",
+      "relatedInfo": "Beginner-level course | Cooking, International Recipes",
+      "name": "Isabella Martinez",
+      "review": "I love cooking, and this masterclass exposed me to international cuisine. The recipes are diverse and delicious, and the chefs' tips are valuable. I've expanded my culinary horizons!",
+      "image": "course15.jpg",
+      "rating": 4.9
+    }
+  ]
+  

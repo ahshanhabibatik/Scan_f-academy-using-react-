@@ -1,0 +1,562 @@
+[
+    {
+        "special_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "id": "01",
+        "courseTitle": "Advanced C programming",
+        "price":"500",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "courseInfo": {
+            "duration": "20 hours",
+            "totalLecture": "30",
+            "quiz": "30",
+            "assignment": "10",
+            "language": "Bangla",
+            "totalVideos": "40"
+        },
+        "totalEnroll": 488,
+        "trainer": {
+            "name": "Zunayed Hossain",
+            "institute": "Scan_f Academy",
+            "totalStuff": "10"
+        },
+        "image_url": "https://cka.collectiva.in/Content/images/CourseImages/9.png",
+        "details": "C is one of the most important of all programming languages. It is used to program desktop applications, compilers, tools and utilities and even hardware devices. The C language is fast and efficient – but it can be hard to learn. Unless you use this course. This course begins with a gentle introduction to C but quickly moves on to explain some of its most confusing features: everything from C's 'scoping' rules to the curious connection between arrays and memory addresses. By the end of the course you will have a deep understanding both of the C language itself and also of the underlying 'architecture' of your computer.",
+        "courseContent": [
+            "Page Index",
+            "C Introduction",
+            "C Flow Control",
+            "C Functions",
+            "C Arrays",
+            "C Pointers",
+            "C Strings",
+            "Structure And Union",
+            "C Files",
+            "Additional Topics",
+            "About C Programming",
+            "Why learn C ?",
+            "How to learn C?",
+            "C Programming Resources"
+        ]
+    },
+    {
+        "special_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "id": "02",
+        "courseTitle": "Java for beginners",
+        "price":"700",
+        "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+        },
+        "courseInfo": {
+            "duration": "30 hours",
+            "totalLecture": "60",
+            "quiz": "60",
+            "assignment": "20",
+            "language": "Bangla",
+            "totalVideos": "65"
+        },
+        "totalEnroll": 890,
+        "trainer": {
+            "name": "Mominul Islam",
+            "institute": "Scan_f Academy",
+            "totalStuff": "15"
+        },
+        "image_url": "https://contentstatic.techgig.com/thumb/msid-93000110,width-460,resizemode-4/What-makes-Java-still-popular-among-developers.jpg?28608",
+        "details": "Java is among the most popular programming languages out there, mainly because of how versatile and compatible it is. This Course is the first of a series of courses that make up the Core Java Specialization. The Core Java Specialization, in turn, is part of a series of programming specializations, derived from LearnQuest's private Java Bootcamps, designed to provide the skill set necessary to be hired as an IT developer using Java in many corporate environments. This course includes hands-on practice and will give you a solid knowledge of the Java language. After completing this course, you will be able to identify Java’s benefits, program in basic Java syntax using Java data types, and incorporate branches and loops.",
+        "courseContent": [
+            "Learn Java Interactively",
+            "Java Introduction",
+            "Java Flow Control",
+            "Java Arrays",
+            "Java OOP (I)",
+            "Java OOP (II)",
+            "Java OOP (III)",
+            "Java List",
+            "Java Queue",
+            "Java Map",
+            "Java Set",
+            "Java I/O Streams ?",
+            "Java Reader/Writer",
+            "Additional Topics"
+        ]
+    },
+    {
+        "special_id": "f69a695f037cd9484cecaea37ca71011",
+        "id": "03",
+        "courseTitle": "Python machine learning",
+        "price":"800",
+        "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+        },
+        "courseInfo": {
+            "duration": "40 hours",
+            "totalLecture": "80",
+            "quiz": "80",
+            "assignment": "25",
+            "language": "Bangla",
+            "totalVideos": "90"
+        },
+        "totalEnroll": 1088,
+        "trainer": {
+            "name": "Mamunur-Rashid",
+            "institute": "Scan_f Academy",
+            "totalStuff": "18"
+        },
+        "image_url": "https://www.digitalnest.in/blog/wp-content/uploads/2019/07/10-Benefits-of-Learning-Python-Programming-Language-and-Its-Use-Cases.png",
+        "details": "In this course, you will be introduced to foundational programming skills with basic Python Syntax. You’ll learn how to use code to solve problems. You’ll dive deep into the Python ecosystem and learn popular modules, libraries and tools for Python. You’ll also get hands-on with objects, classes and methods in Python, and utilize variables, data types, control flow and loops, functions and data structures. You’ll learn how to recognize and handle errors and you’ll write unit tests for your Python code and practice test-driven development. This course aims to teach everyone the basics of programming computers using Python.",
+        "courseContent": [
+            "Introduction",
+            "Flow Control",
+            "Function",
+            "Data Types",
+            "File Handling",
+            "Object & Class",
+            "Advanced Tutorials",
+            "Date and Time",
+            "About Python Programming",
+            "Why learn Python ?",
+            "How to learn Python?",
+            "Python Resources"
+        ]
+    },
+    {
+        "special_id": "f69a695f037cd9484cecaea37ca71012",
+        "id": "04",
+        "courseTitle": "Learn advanced C++ ",
+        "price":"600",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "courseInfo": {
+            "duration": "15 hours",
+            "totalLecture": "25",
+            "quiz": "15",
+            "assignment": "8",
+            "language": "Bangla",
+            "totalVideos": "25"
+        },
+        "totalEnroll": 1488,
+        "trainer": {
+            "name": "Shakowat Hossain",
+            "institute": "Scan_f Academy",
+            "totalStuff": "5"
+        },
+        "image_url": "https://w10.naukri.com/mailers/2021/naukri-learning/dec/17dec/What-is-Cplusplus.jpg",
+        "details": "With its adaptability and fast rendering, you’ll find the C++ programming language used everywhere, from web browsers to game development and operating systems to science and machine learning tools. This course will help you learn C++ basics and give you hands-on experience to create your own projects and work with computer memory.",
+        "courseContent": [
+            "C++ Introduction",
+            "C++ Flow Control",
+            "C++ Functions",
+            "C++ Arrays & String",
+            "C++ Structures",
+            "C++ Object & Class",
+            "C++ Pointers",
+            "C++ Inheritance",
+            "About C++ Programming",
+            "Why learn C++ ?",
+            "How to learn C++ ?",
+            "C++ Resources"
+        ]
+    },
+    {
+        "special_id": "11468ed61aee84de492a8b04158a22f9",
+        "id": "05",
+        "courseTitle": "PHP for beginners",
+        "price":"400",
+        "rating": {
+            "number": 4.2,
+            "badge": "Excellent"
+        },
+        "courseInfo": {
+            "duration": "35 hours",
+            "totalLecture": "50",
+            "quiz": "50",
+            "assignment": "18",
+            "language": "Bangla",
+            "totalVideos": "50"
+        },
+        "trainer": {
+            "name": "Dr. Rohan Haque",
+            "institute": "Scan_f Academy",
+            "totalStuff": "12"
+        },
+        "image_url": "https://d1lf7jq9a5epx3.cloudfront.net/wp-content/uploads/sites/5/2021/09/ultrafast_blog_1200x600.jpeg",
+        "details": "PHP is a widely-used programming language and can be embedded into HTML. It is an excellent programming language for someone interested in learning web development. This course covers everything from basic PHP development to advanced techniques.",
+        "courseContent": [
+            "Introduction of PHP and web designing basics",
+            "Basic PHP Development",
+            "Handling HTML form with PHP",
+            "Control Structures",
+            "String Manipulation",
+            "Working with the file system",
+            "Functions",
+            "Working with regular expressions",
+            "Working with forms",
+            "Introduction to database",
+            "Classes and objects",
+            "Advance PHP techniques ?",
+            "Frame Work?",
+            "PHP Programming Resources"
+        ]
+    },
+    {
+        "special_id": "11468ed61aee84de492a8b04158a22f0",
+        "id": "06",
+        "courseTitle": "C# (C-Sharp) tutorial ",
+        "price":"500",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "courseInfo": {
+            "duration": "23 hours",
+            "totalLecture": "33",
+            "quiz": "33",
+            "assignment": "13",
+            "language": "Bangla",
+            "totalVideos": "33"
+        },
+        "totalEnroll": 1688,
+        "trainer": {
+            "name": "Habibur Rahman",
+            "institute": "Scan_f Academy",
+            "totalStuff": "10"
+        },
+        "image_url": "https://edraak-marketing-uploads.edraak.org/Courses/sa.png",
+        "details": "The C# programming language offers flexible and comprehensive libraries that make it easy to work across operating systems. Whether you want to develop websites, apps, video games, or virtual reality, building your foundation in C# is key.",
+        "courseContent": [
+            "Introduction",
+            "Flow Control",
+            "Arrays",
+            "OOP (I)",
+            "OOP (II)",
+            "Additional Topics",
+            "About C# Programming",
+            "Why learn C# ?",
+            "How to learn C# ?",
+            "C# Resources"
+        ]
+    },
+    {
+        "special_id": "11468ed61aee84de492a8b04158a22f4",
+        "id": "7",
+        "courseTitle": "Full-Stack Web Development",
+        "price":"300",
+        "rating": {
+            "number": 4.9,
+            "badge": "Excellent"
+        },
+        "courseInfo": {
+            "duration": "60 hours",
+            "totalLecture": "80",
+            "quiz": "50",
+            "assignment": "30",
+            "language": "English",
+            "totalVideos": "100"
+        },
+        "trainer": {
+            "name": "Alex Turner",
+            "institute": "WebMasters Institute",
+            "totalStuff": "15"
+        },
+        "image_url": "https://e1.pxfuel.com/desktop-wallpaper/574/84/desktop-wallpaper-net-full-stack-developer-full-stack-thumbnail.jpg ",
+        "details": "Become a full-stack web developer with this comprehensive course. You'll learn front-end technologies like HTML, CSS, and JavaScript, as well as back-end development using Node.js and databases. Create interactive web applications and gain real-world development experience.",
+        "courseContent": [
+            "Introduction to Full-Stack Development",
+            "Front-End Development",
+            "Back-End Development",
+            "Node.js and Express.js",
+            "Database Management",
+            "Web Application Projects",
+            "Advanced Full-Stack Development",
+            "Web Development Resources"
+        ]
+    },
+    {
+        "special_id": "11468ed61aee84de492a8b04158a22f5",
+        "id": "8",
+        "courseTitle": "Data Science Fundamentals",
+        "price":"400",
+        "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+        },
+        "courseInfo": {
+            "duration": "45 hours",
+            "totalLecture": "70",
+            "quiz": "40",
+            "assignment": "25",
+            "language": "English",
+            "totalVideos": "85"
+        },
+        "trainer": {
+            "name": "Sarah Johnson",
+            "institute": "Data Science Academy",
+            "totalStuff": "20"
+        },
+        "image_url": "https://www.staffordglobal.org/wp-content/uploads/2021/07/Data-Science-Concepts.jpg",
+        "details": "Master the fundamentals of data science with this comprehensive course. Learn data analysis, visualization, machine learning, and more. Start your journey into the exciting field of data science.",
+        "courseContent": [
+            "Introduction to Data Science",
+            "Data Analysis and Visualization",
+            "Statistical Analysis",
+            "Machine Learning",
+            "Big Data and Hadoop",
+            "Data Science Projects",
+            "Advanced Data Science",
+            "Data Science Resources"
+        ]
+    },
+    {
+        "special_id": "11468ed61aee84de492a8b04158a22f6",
+        "id": "9",
+        "courseTitle": "Cybersecurity Basics",
+        "price":"400",
+        "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+        },
+        "courseInfo": {
+            "duration": "25 hours",
+            "totalLecture": "40",
+            "quiz": "30",
+            "assignment": "15",
+            "language": "English",
+            "totalVideos": "50"
+        },
+        "trainer": {
+            "name": "John Smith",
+            "institute": "Cybersecurity Institute",
+            "totalStuff": "10"
+        },
+        "image_url": "https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/12/Blog_Cybersecurity-Fundamentals.png",
+        "details": "Learn the essentials of cybersecurity with this course. Understand the principles of cybersecurity, network security, and secure coding practices. Protect yourself and your organization from cyber threats.",
+        "courseContent": [
+            "Introduction to Cybersecurity",
+            "Network Security",
+            "Secure Coding Practices",
+            "Ethical Hacking",
+            "Cybersecurity Tools",
+            "Cybersecurity Projects",
+            "Advanced Cybersecurity",
+            "Cybersecurity Resources"
+        ]
+    },
+    {
+        "special_id": "11468ed61aee84de492a8b04158a22f7",
+        "id": "10",
+        "courseTitle": "Artificial Intelligence",
+        "price":"400",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "courseInfo": {
+            "duration": "50 hours",
+            "totalLecture": "60",
+            "quiz": "50",
+            "assignment": "20",
+            "language": "English",
+            "totalVideos": "70"
+        },
+        "trainer": {
+            "name": "Emily Roberts",
+            "institute": "AI Learning Center",
+            "totalStuff": "12"
+        },
+        "image_url": "https://www.investopedia.com/thmb/S7eG-NVM4IFXTvOQa-lf5VpOEgo=/4000x2700/filters:no_upscale():max_bytes(150000):strip_icc()/terms_a_artificial-intelligence-ai_asp-FINAL-ddba8ac599f3438d8064350d2ee1ae5a.jpg",
+        "details": "Discover the exciting world of Artificial Intelligence (AI). Learn about machine learning, neural networks, and deep learning. Dive into AI projects and applications.",
+        "courseContent": [
+            "Introduction to Artificial Intelligence",
+            "Machine Learning Basics",
+            "Neural Networks",
+            "Deep Learning",
+            "AI Projects",
+            "Ethical AI",
+            "Advanced AI",
+            "AI Resources"
+        ]
+    },
+    {
+        "special_id": "11468ed61aee84de492a8b04158a22f8",
+        "id": "11",
+        "courseTitle": "Mobile App Development",
+        "price":"400",
+        "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+        },
+        "courseInfo": {
+            "duration": "40 hours",
+            "totalLecture": "50",
+            "quiz": "45",
+            "assignment": "15",
+            "language": "English",
+            "totalVideos": "60"
+        },
+        "trainer": {
+            "name": "Daniel Brown",
+            "institute": "MobileDev Pro",
+            "totalStuff": "10"
+        },
+        "image_url": "https://ideausher.com/wp-content/uploads/2022/07/covr-image-50_result.webp",
+        "details": "Learn how to develop mobile apps for iOS and Android. Explore app design, development, and deployment. Create your own mobile apps.",
+        "courseContent": [
+            "Introduction to Mobile App Development",
+            "App Design Principles",
+            "iOS App Development",
+            "Android App Development",
+            "App Deployment",
+            "Mobile App Projects",
+            "Advanced App Development",
+            "Mobile App Development Resources"
+        ]
+    },
+    {
+        "special_id": "11468ed61aee84de492a8b04158a22f9",
+        "id": "12",
+        "courseTitle": "Cloud Computing Fundamentals",
+        "price":"200",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "courseInfo": {
+            "duration": "35 hours",
+            "totalLecture": "45",
+            "quiz": "40",
+            "assignment": "12",
+            "language": "English",
+            "totalVideos": "55"
+        },
+        "trainer": {
+            "name": "Laura Miller",
+            "institute": "CloudTech Academy",
+            "totalStuff": "15"
+        },
+        "image_url": "https://digitalcloud.training/wp-content/uploads/2018/10/Copy-of-Blog-Image.png?update_image_id_1689019178",
+        "details": "Gain a solid understanding of cloud computing. Learn about cloud services, architecture, and deployment models. Explore cloud security and best practices.",
+        "courseContent": [
+            "Introduction to Cloud Computing",
+            "Cloud Service Models",
+            "Cloud Deployment Models",
+            "Cloud Security",
+            "Cloud Providers",
+            "Cloud Migration",
+            "Advanced Cloud Computing",
+            "Cloud Computing Resources"
+        ]
+    },
+    {
+        "special_id": "11468ed61aee84de492a8b04158a22f10",
+        "id": "13",
+        "courseTitle": "Blockchain Technology",
+        "price":"500",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "courseInfo": {
+            "duration": "30 hours",
+            "totalLecture": "40",
+            "quiz": "35",
+            "assignment": "10",
+            "language": "English",
+            "totalVideos": "45"
+        },
+        "trainer": {
+            "name": "Michael Clark",
+            "institute": "Blockchain Institute",
+            "totalStuff": "8"
+        },
+        "image_url": "https://blogs.iadb.org/caribbean-dev-trends/wp-content/uploads/sites/34/2017/12/Blockchain1.jpg",
+        "details": "Discover the world of blockchain technology and cryptocurrencies. Learn about blockchain fundamentals, cryptocurrency mining, and smart contracts.",
+        "courseContent": [
+            "Introduction to Blockchain",
+            "Blockchain Fundamentals",
+            "Cryptocurrency",
+            "Mining and Consensus",
+            "Smart Contracts",
+            "Blockchain Applications",
+            "Advanced Blockchain",
+            "Blockchain Technology Resources"
+        ]
+    },
+    {
+        "special_id": "11468ed61aee84de492a8b04158a22f11",
+        "id": "14",
+        "courseTitle": "Digital Marketing",
+        "price":"100",
+        "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+        },
+        "courseInfo": {
+            "duration": "40 hours",
+            "totalLecture": "60",
+            "quiz": "45",
+            "assignment": "20",
+            "language": "English",
+            "totalVideos": "70"
+        },
+        "trainer": {
+            "name": "Jennifer Lee",
+            "institute": "Digital Marketers Academy",
+            "totalStuff": "12"
+        },
+        "image_url": "https://thumbs.dreamstime.com/b/digital-marketing-person-using-laptop-digital-marketing-person-using-laptop-white-table-118541019.jpg",
+        "details": "Learn the art of digital marketing. Explore SEO, social media marketing, email marketing, and online advertising. Grow your online presence.",
+        "courseContent": [
+            "Introduction to Digital Marketing",
+            "Search Engine Optimization (SEO)",
+            "Social Media Marketing",
+            "Email Marketing",
+            "Online Advertising",
+            "Content Marketing",
+            "Digital Marketing Analytics",
+            "Advanced Digital Marketing",
+            "Digital Marketing Resources"
+        ]
+    },
+    {
+        "special_id": "11468ed61aee84de492a8b04158a22f12",
+        "id": "15",
+        "courseTitle": "Photography Basics",
+        "price":"400",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "courseInfo": {
+            "duration": "20 hours",
+            "totalLecture": "30",
+            "quiz": "20",
+            "assignment": "10",
+            "language": "English",
+            "totalVideos": "40"
+        },
+        "trainer": {
+            "name": "Emily Davis",
+            "institute": "Photography School",
+            "totalStuff": "6"
+        },
+        "image_url": "https://www.photographytalk.com/images/articles/2018/05/23/articles/2017_8/iStock-834741464-min-1.jpg",
+        "details": "Unlock the art of photography. Learn about camera settings, composition, lighting, and post-processing. Capture stunning photos and unleash your creativity.",
+        "courseContent": [
+            "Introduction to Photography",
+            "Camera Settings",
+            "Composition Techniques",
+            "Lighting in Photography",
+            "Editing and Post-Processing",
+            "Photography Genres",
+            "Photography Tips and Tricks",
+            "Advanced Photography",
+            "Photography Resources"
+        ]
+    }
+]
